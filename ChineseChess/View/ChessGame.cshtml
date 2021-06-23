@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <script src="/js/jquery-3.1.0.js"></script>
+    <link href="/Semantic-UI-CSS-master/semantic.min.css" rel="stylesheet" />
+    <script src="/Semantic-UI-CSS-master/semantic.min.js"></script>
+
+    <script src="/js/utils.js"></script>
+    <script src="/js/abstract-chess-board.js"></script>
+    <script src="/js/dark-chess-board.js"></script>    
+    <script src="/js/light-chess-board.js"></script>
+    
+
+    <style>
+        body {
+            background-color: #313235;
+            /*overflow:hidden; /*No scroll*/
+            height: 100%;
+            width: 100%;
+        }
+
+        *{
+            font-family:'Microsoft JhengHei' !important;
+        }        
+
+        #red-general {
+            position: absolute;
+            top: 10%;
+            left: 10%;
+            cursor: pointer;
+        }
+
+        .chess {
+            position: absolute;
+            height: 50px;
+            width: 50px;
+            cursor: pointer;
+            opacity: 0.9;
+        }
+
+        .dead-chess{
+            float:left;
+            height: 50px;
+            width: 50px;
+            margin:5px;
+        }       
+
+        .move-block{
+            position: absolute;
+            cursor: pointer;
+            opacity: 0.5;
+            width: 50px;
+	        height: 50px;
+	        background: red;
+	        -moz-border-radius: 50px;
+	        -webkit-border-radius: 50px;
+	        border-radius: 50px;
+        }
+
+        .target, .unknown{
+            position: absolute;
+            cursor: pointer;
+            width: 50px;
+	        height: 50px;
+        }
+
+        /*Red and black windows*/
+        #win-text{
+            text-align:center;
+            font-size:300%;
+        }
+
+        #red-window, #black-window{
+            width:100%;
+            height: 100%;
+        }
+
+        #red-window-title, #black-window-title{
+            font-size:200%;
+            text-align:center;
+        }
+
+        #camp-turn-text-block{
+            /*div水平置中*/
+            position:absolute;
+            margin:auto;
+            left:0;
+            right:0;
+            height:40px;
+            width:200px;
+
+            /*內文*/
+            text-align:center; /*內文水平置中*/
+            line-height: 40px; /*內文行距，可用來垂直置中，與height同值*/
+        }
+
+        #camp-turn-text{
+            font-size:150%;
+            color:#A5673F;
+        }
+
+    </style>
+
+    <script>
+        function initDark() {
+            var chessBoard = new DarkChessBoard()
+            chessBoard.init()
+        }
+
+        function initLight() {
+            var chessBoard = new LightChessBoard()
+            chessBoard.init()
+        }              
+    </script>
+</head>
+<body>   
+
+    <div id="menu" class="ui inverted menu">
+        <a class="active red item" onclick="initLight()">明棋</a>
+        <a class="item" onclick="initDark()">暗棋</a>     
+        <div id="camp-turn-text-block">
+            <span id="camp-turn-text">請按明棋或暗棋開始遊戲</span>
+        </div> 
+    </div>
+
+    <div class="ui grid">       
+        <div class="three wide column" id="main-red-window"></div> @*Red Window container*@
+        <div class="ten wide column" id="main-chess-board"></div> @*ChessBoard container*@
+        <div class="three wide column" id="main-black-window"></div>@*Black Window container*@
+    </div>
+
+    <div class="ui small modal">
+        <i class="close icon"></i>
+        <div id="win-text" class="header"></div>
+        <div class="actions">
+            <div class="ui positive button">確定</div>
+        </div>
+    </div>
+</body>
+</html>

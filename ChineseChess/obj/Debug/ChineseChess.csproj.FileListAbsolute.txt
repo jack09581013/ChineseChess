@@ -1,0 +1,210 @@
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\ChineseChess.dll.config
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\ChineseChess.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\ChineseChess.pdb
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.dll
+c:\users\user\documents\visual studio 2015\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
+C:\ChineseChess\ChineseChess\bin\ApplicationInsights.config
+C:\ChineseChess\ChineseChess\bin\roslyn\csc.exe
+C:\ChineseChess\ChineseChess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ChineseChess\ChineseChess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ChineseChess\ChineseChess\bin\roslyn\System.Collections.Immutable.dll
+C:\ChineseChess\ChineseChess\bin\roslyn\System.Reflection.Metadata.dll
+C:\ChineseChess\ChineseChess\bin\roslyn\vbc.exe
+C:\ChineseChess\ChineseChess\bin\roslyn\VBCSCompiler.exe
+C:\ChineseChess\ChineseChess\bin\roslyn\VBCSCompiler.exe.config
+C:\ChineseChess\ChineseChess\bin\ChineseChess.dll.config
+C:\ChineseChess\ChineseChess\bin\ChineseChess.dll
+C:\ChineseChess\ChineseChess\bin\ChineseChess.pdb
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.DependencyCollector.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.Web.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.WindowsServer.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.ApplicationInsights.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.Web.Infrastructure.dll
+C:\ChineseChess\ChineseChess\bin\System.Web.Helpers.dll
+C:\ChineseChess\ChineseChess\bin\System.Web.Mvc.dll
+C:\ChineseChess\ChineseChess\bin\System.Web.Razor.dll
+C:\ChineseChess\ChineseChess\bin\System.Web.WebPages.Deployment.dll
+C:\ChineseChess\ChineseChess\bin\System.Web.WebPages.dll
+C:\ChineseChess\ChineseChess\bin\System.Web.WebPages.Razor.dll
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.DependencyCollector.xml
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.Web.xml
+C:\ChineseChess\ChineseChess\bin\Microsoft.AI.WindowsServer.xml
+C:\ChineseChess\ChineseChess\bin\Microsoft.ApplicationInsights.xml
+C:\ChineseChess\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ChineseChess\ChineseChess\bin\System.Web.Helpers.xml
+C:\ChineseChess\ChineseChess\bin\System.Web.Mvc.xml
+C:\ChineseChess\ChineseChess\bin\System.Web.Razor.xml
+C:\ChineseChess\ChineseChess\bin\System.Web.WebPages.xml
+C:\ChineseChess\ChineseChess\bin\System.Web.WebPages.Deployment.xml
+C:\ChineseChess\ChineseChess\bin\System.Web.WebPages.Razor.xml
+C:\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csprojResolveAssemblyReference.cache
+C:\ChineseChess\ChineseChess\obj\Debug\ChineseChess.dll
+C:\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\ApplicationInsights.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\ChineseChess.dll.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\ChineseChess.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\ChineseChess.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\obj\Debug\ChineseChess.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\obj\Debug\ChineseChess.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ChineseChessJS\ChineseChess\obj\Debug\ChineseChess.pdb
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\ApplicationInsights.config
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\csc.exe
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\vbc.exe
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\ChineseChess.dll.config
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\ChineseChess.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\ChineseChess.pdb
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.DependencyCollector.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.Web.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.WindowsServer.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.ApplicationInsights.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.Helpers.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.Mvc.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.Razor.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.WebPages.Deployment.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.WebPages.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.WebPages.Razor.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.DependencyCollector.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.Web.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.AI.WindowsServer.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.ApplicationInsights.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.Helpers.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.Mvc.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.Razor.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.WebPages.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.WebPages.Deployment.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\System.Web.WebPages.Razor.xml
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csprojAssemblyReference.cache
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csproj.CopyComplete
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\obj\Debug\ChineseChess.dll
+D:\Google Drive\Projects\C#\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb

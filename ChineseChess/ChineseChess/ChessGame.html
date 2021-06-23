@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <script src="js/jquery-3.1.0.js"></script>
+    <style>
+        body{
+            background-color:#1B1C1D;
+            /*overflow:hidden; /*No scroll*/            
+            height:100%;
+            width:100%;
+        }
+
+        #chess-board{
+            height:800px;
+            width:800px;
+
+            position:absolute;
+            top:0;
+            bottom:0;
+            left:0;
+            right:0;
+            margin:auto;
+        }
+
+        #red-general{
+            position:absolute;
+            top:10%;
+            left:10%;
+            cursor:pointer;
+        }
+
+        .chess{
+            position:absolute;
+            height:50px;
+            width:50px;
+            cursor:pointer;
+            opacity:0.9;            
+        }
+
+        .chess:hover{
+            filter:drop-shadow(0px 0px 10px red);
+        }
+
+    </style>
+
+    <script>
+
+        function getXPixel(xIndex) {
+            return ((120 + xIndex * 235) * 800 / 2142 - 25) + 'px'
+        }
+
+        function getYPixel(yIndex) {
+            return ((105 + yIndex * 245) * 800 / 2400 - 25) + 'px'
+        }
+
+        function setXY(selector, xIndex, yIndex) {
+            $(selector).css({
+                'left': getXPixel(xIndex),
+                'top': getYPixel(yIndex)
+            })
+        }
+
+    </script>
+
+</head>
+<body>
+    <div id="chess-board">
+        <img id="chess-board-image" src="image/ChessBoard.png" height="800" width="800" />
+
+        
+        <img class="chess black advisor 1" src="image/Chesses/BlackAdvisor.png" />
+        <img class="chess black advisor 2" src="image/Chesses/BlackAdvisor.png" />
+        <img class="chess black cannon 1" src="image/Chesses/BlackCannon.png"/>
+        <img class="chess black cannon 2" src="image/Chesses/BlackCannon.png" />
+        <img class="chess black chariot 1" src="image/Chesses/BlackChariot.png" />
+        <img class="chess black chariot 2" src="image/Chesses/BlackChariot.png" />
+        <img class="chess black elephant 1" src="image/Chesses/BlackElephant.png" />
+        <img class="chess black elephant 2" src="image/Chesses/BlackElephant.png" />
+        <img class="chess black general" src="image/Chesses/BlackGeneral.png" />
+        <img class="chess black horse 1" src="image/Chesses/BlackHorse.png" />
+        <img class="chess black horse 2" src="image/Chesses/BlackHorse.png" />
+        <img class="chess black soldier 1" src="image/Chesses/BlackSoldier.png" />
+        <img class="chess black soldier 2" src="image/Chesses/BlackSoldier.png" />
+        <img class="chess black soldier 3" src="image/Chesses/BlackSoldier.png" />
+        <img class="chess black soldier 4" src="image/Chesses/BlackSoldier.png" />
+        <img class="chess black soldier 5" src="image/Chesses/BlackSoldier.png" />
+
+        
+        <img class="chess red advisor 1" src="image/Chesses/RedAdvisor.png" />
+        <img class="chess red advisor 2" src="image/Chesses/RedAdvisor.png" />
+        <img class="chess red cannon 1" src="image/Chesses/RedCannon.png" />
+        <img class="chess red cannon 2" src="image/Chesses/RedCannon.png" />
+        <img class="chess red chariot 1" src="image/Chesses/RedChariot.png" />
+        <img class="chess red chariot 2" src="image/Chesses/RedChariot.png" />
+        <img class="chess red elephant 1" src="image/Chesses/RedElephant.png" />
+        <img class="chess red elephant 2" src="image/Chesses/RedElephant.png" />
+        <img class="chess red general" src="image/Chesses/RedGeneral.png" />
+        <img class="chess red horse 1" src="image/Chesses/RedHorse.png" />
+        <img class="chess red horse 2" src="image/Chesses/RedHorse.png" />
+        <img class="chess red soldier 1" src="image/Chesses/RedSoldier.png" />
+        <img class="chess red soldier 2" src="image/Chesses/RedSoldier.png" />
+        <img class="chess red soldier 3" src="image/Chesses/RedSoldier.png" />
+        <img class="chess red soldier 4" src="image/Chesses/RedSoldier.png" />
+        <img class="chess red soldier 5" src="image/Chesses/RedSoldier.png" />
+    </div>
+
+    <script>
+        //Setting position of black chesses 
+        setXY('.black.chariot.1', 0, 0)
+        setXY('.black.horse.1', 1, 0)
+        setXY('.black.elephant.1', 2, 0)
+        setXY('.black.advisor.1', 3, 0)
+        setXY('.black.general', 4, 0)
+        setXY('.black.advisor.2', 5, 0)
+        setXY('.black.elephant.2', 6, 0)
+        setXY('.black.horse.2', 7, 0)
+        setXY('.black.chariot.2', 8, 0)
+
+        setXY('.black.cannon.1', 1, 2)
+        setXY('.black.cannon.2', 7, 2)
+
+        setXY('.black.soldier.1', 0, 3)
+        setXY('.black.soldier.2', 2, 3)
+        setXY('.black.soldier.3', 4, 3)
+        setXY('.black.soldier.4', 6, 3)
+        setXY('.black.soldier.5', 8, 3)
+
+        //Setting position of red chesses
+        setXY('.red.chariot.1', 0, 9)
+        setXY('.red.horse.1', 1, 9)
+        setXY('.red.elephant.1', 2, 9)
+        setXY('.red.advisor.1', 3, 9)
+        setXY('.red.general', 4, 9)
+        setXY('.red.advisor.2', 5, 9)
+        setXY('.red.elephant.2', 6, 9)
+        setXY('.red.horse.2', 7, 9)
+        setXY('.red.chariot.2', 8, 9)
+
+        setXY('.red.cannon.1', 1, 7)
+        setXY('.red.cannon.2', 7, 7)
+
+        setXY('.red.soldier.1', 0, 6)
+        setXY('.red.soldier.2', 2, 6)
+        setXY('.red.soldier.3', 4, 6)
+        setXY('.red.soldier.4', 6, 6)
+        setXY('.red.soldier.5', 8, 6)
+    </script>
+
+    <script>
+        $('.chess').click(function () {
+            $('.chess').css({ 'filter': 'none' }) //Clear chess select
+            $(this).css({ 'filter': 'drop-shadow(0px 0px 10px red)' })
+        })
+
+        $('#chess-board-image').click(function () {
+            $('.chess').css({ 'filter': 'none' }) //Clear chess select
+        })
+    </script>
+    
+
+</body>
+</html>
